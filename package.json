@@ -1,0 +1,28 @@
+{
+  "name": "next-app-example",
+  "version": "1.0.0",
+  "description": "A Next.js application with authentication, API consumption, and dynamic routing.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bcrypt": "^5.1.1",
+    "next": "latest",
+    "next-auth": "^4.24.11",
+    "node-cache": "^5.1.2",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^2.2.19"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
