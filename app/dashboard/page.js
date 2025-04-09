@@ -229,7 +229,7 @@ export default async function DashboardPage() {
 
         {/* Rodapé do Dashboard */}
         <div className="text-center text-sm text-gray-500 pt-4 pb-8">
-          <p>© 2025 Sua Empresa. Todos os direitos reservados.</p>
+          <p>© 2025 Meu Projeto Next.Js. Eduardo Santos de PaulaTodos os direitos reservados.</p>
           <p className="mt-1">Versão 1.0.0</p>
         </div>
       </div>
