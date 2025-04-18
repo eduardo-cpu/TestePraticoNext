@@ -34,7 +34,7 @@ Este é um projeto Next.js que demonstra várias funcionalidades e práticas rec
 
 1. Clone o repositório:
 ```bash
-git clone <url-do-seu-repositorio>
+git clone https://github.com/eduardo-cpu/TestePraticoNext
 cd next-app-example
 ```
 
@@ -48,7 +48,7 @@ yarn
 3. Configure as variáveis de ambiente:
 Crie um arquivo `.env.local` na raiz do projeto e adicione:
 ```
-NEXTAUTH_SECRET=sua_chave_secreta_aqui
+NEXTAUTH_SECRET=sua_chave_secreta_aqui  utilize esse comando para criar uma chave secreta (openssl rand -hex 32)
 NEXTAUTH_URL=http://localhost:3000
 ```
 
